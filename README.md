@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thanos-katsaounis/"><img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn"/></a>&nbsp;
-  <a href="https://medium.com/@katsathanasis2"><img src="https://skillicons.dev/icons?i=medium" width="42" alt="Medium"/></a>&nbsp;
   <a href="https://github.com/KatsaounisThanasis"><img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/></a>
 </p>
 

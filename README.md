@@ -1,8 +1,8 @@
 # Hi, I'm Thanos 👋
 
-**DevOps & Cloud Engineer** — I build, break, and fix systems, then automate what's left.
+**DevOps & Cloud Engineer.** I build, break, and fix systems, then automate what's left.
 
-Most of my side projects share one thread: **local-first, provable tooling for DevSecOps and AI reliability.** Not "AI opens a PR and hopes it's right" — pipelines that re-run the gate and *prove* the fix holds, that keep your infrastructure code on your own machine, and that gate regressions before they ship.
+Most of my side projects run on one idea: local-first tooling that proves its own work. A pipeline that re-runs the gate and shows zero violations. A supply chain that blocks an unsigned image at admission. An eval harness that fails the build when an LLM regresses. The code stays on your machine and the proof is in the run.
 
 ---
 
@@ -31,4 +31,4 @@ Most of my side projects share one thread: **local-first, provable tooling for D
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanos-katsaounis/)
 
-<sub>Automating stuff & learning daily — sharing and growing one project at a time. 🚀</sub>
+<sub>Automating stuff and learning daily, one project at a time. 🚀</sub>

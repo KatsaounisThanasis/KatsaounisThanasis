@@ -9,12 +9,13 @@
 
 ---
 
-Most of my side projects run on one idea: local-first tooling that proves its own work. A pipeline that re-runs the gate and shows zero violations. A supply chain that blocks an unsigned image at admission. An eval harness that fails the build when an LLM regresses. The code stays on your machine and the proof is in the run.
+Most of my side projects run on one idea: local-first tooling that proves its own work. A pipeline that re-runs the gate and shows zero violations. A supply chain that blocks an unsigned image at admission. An eval harness that fails the build when an LLM regresses. A dependency map where every edge carries its evidence. The code stays on your machine and the proof is in the run.
 
 ### 🔧 Featured projects
 
 | Project | What it does |
 |---|---|
+| **[cloudmap](https://github.com/KatsaounisThanasis/cloudmap)** ([PyPI](https://pypi.org/project/cloudmap/)) | Give it one Azure resource name, get back its full **blast radius**: a verified dependency graph as an editable draw.io diagram with native Azure icons, an interactive HTML viewer, Mermaid, JSON and CSV. Every edge carries its proof; incompleteness is declared on the map. `pip install cloudmap` `Azure Resource Graph · Python` |
 | **[policy-as-code-ai](https://github.com/KatsaounisThanasis/policy-as-code-ai)** | Local-first Policy-as-Code with *provable* remediation. A local LLM explains each Terraform misconfiguration, a deterministic engine writes the fix, and the pipeline re-scans to prove **0 violations**. Nothing leaves your machine. `OPA/Rego · Terraform · Ollama` |
 | **[secure-supply-chain](https://github.com/KatsaounisThanasis/secure-supply-chain)** | End-to-end zero-trust supply chain: Hadolint + Gitleaks → Trivy CVE scan (SARIF) → CycloneDX SBOM → Cosign keyless signing → Kyverno admission control. Self-proving on every push. `Sigstore · SLSA · Kyverno` |
 | **[llm-reliability-lab](https://github.com/KatsaounisThanasis/llm-reliability-lab)** | A CI/CD evaluation harness that gates LLM regressions on accuracy, latency, cost & error rate. Policy-as-Code, but for AI behavior. `Python · LiteLLM · CI` |

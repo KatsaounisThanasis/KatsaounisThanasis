@@ -19,7 +19,7 @@ Most of my side projects run on one idea: local-first tooling that proves its ow
 | **[policy-as-code-ai](https://github.com/KatsaounisThanasis/policy-as-code-ai)** | Local-first Policy-as-Code with *provable* remediation. A local LLM explains each Terraform misconfiguration, a deterministic engine writes the fix, and the pipeline re-scans to prove **0 violations**. Nothing leaves your machine. `OPA/Rego · Terraform · Ollama` |
 | **[secure-supply-chain](https://github.com/KatsaounisThanasis/secure-supply-chain)** | End-to-end zero-trust supply chain: Hadolint + Gitleaks → Trivy CVE scan (SARIF) → CycloneDX SBOM → Cosign keyless signing → Kyverno admission control. Self-proving on every push. `Sigstore · SLSA · Kyverno` |
 | **[llm-reliability-lab](https://github.com/KatsaounisThanasis/llm-reliability-lab)** | A CI/CD evaluation harness that gates LLM regressions on accuracy, latency, cost & error rate. Policy-as-Code, but for AI behavior. `Python · LiteLLM · CI` |
-| **[Multi-Cloud-Hub](https://github.com/KatsaounisThanasis/Multi-Cloud-Hub)** ([live demo](https://katsaounisthanasis.github.io/Multi-Cloud-Hub/)) | A portal to deploy and manage infrastructure across Azure & GCP from one place. `FastAPI · React · Terraform` |
+| **[Multi-Cloud-Hub](https://github.com/KatsaounisThanasis/Multi-Cloud-Hub)** ([project site](https://katsaounisthanasis.github.io/Multi-Cloud-Hub/)) | A portal to deploy and manage infrastructure across Azure & GCP from one place. `FastAPI · React · Terraform` |
 
 ### ✍️ Writing
 

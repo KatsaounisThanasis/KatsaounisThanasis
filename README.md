@@ -2,6 +2,8 @@
 
 <p align="center"><b>DevOps & Cloud Engineer.</b> I build, break, and fix systems, then automate what's left.</p>
 
+<p align="center"><a href="https://thanoskatsaounis.me">thanoskatsaounis.me</a></p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/thanos-katsaounis/"><img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn"/></a>&nbsp;
   <a href="https://github.com/KatsaounisThanasis"><img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/></a>
@@ -29,7 +31,7 @@ I write up how these projects work and the calls I made building them:
 - [I built a policy scanner that fixes my Terraform and proves the fix holds](https://medium.com/@katsathanasis2/i-built-a-policy-scanner-that-fixes-my-terraform-and-proves-the-fix-holds-2cb12ac60637)
 - [I built a CI/CD pipeline that refuses to run code it can't prove it built](https://medium.com/@katsathanasis2/i-built-a-ci-cd-pipeline-that-refuses-to-run-code-it-cant-prove-it-built-e6cc30813524)
 
-More on [Medium](https://medium.com/@katsathanasis2).
+Essays and shorter entries on what changed live at [thanoskatsaounis.me/log](https://thanoskatsaounis.me/log/). The articles are also on [Medium](https://medium.com/@katsathanasis2).
 
 ### 🧰 Tech I reach for
 

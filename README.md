@@ -5,6 +5,7 @@
 <p align="center"><a href="https://thanoskatsaounis.me">thanoskatsaounis.me</a></p>
 
 <p align="center">
+  <a href="https://thanoskatsaounis.me"><img src="assets/site.svg" width="42" alt="thanoskatsaounis.me"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/thanos-katsaounis/"><img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn"/></a>&nbsp;
   <a href="https://github.com/KatsaounisThanasis"><img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/></a>
 </p>
